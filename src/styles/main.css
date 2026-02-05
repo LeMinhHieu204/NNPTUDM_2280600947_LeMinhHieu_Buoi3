@@ -1,0 +1,29 @@
+body {
+  background: #f4f7fb;
+}
+
+.table tbody tr {
+  cursor: pointer;
+}
+
+.thumb {
+  width: 64px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.sort-btn {
+  padding: 0 6px;
+  font-size: 12px;
+  margin-left: 6px;
+}
+
+.modal-img {
+  width: 120px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #e5e5e5;
+}
